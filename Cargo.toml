@@ -4,6 +4,7 @@ version = "0.0.1"
 edition = "2021"
 description = "This is simple wzium library in rust!"
 license = "wzium"
+homepage = "https://github.com/smaks6/wziumLibrary"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
