@@ -1,10 +1,16 @@
 [package]
-name = "wziumLibrary"
-version = "0.0.1"
+name = "wzium-library"
+version = "0.0.3"
 edition = "2021"
 description = "This is simple wzium library in rust!"
-license = "wzium"
+license = "MIT"
 homepage = "https://github.com/smaks6/wziumLibrary"
+
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+    "README.md"
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
